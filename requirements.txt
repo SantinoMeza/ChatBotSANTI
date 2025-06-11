@@ -82,4 +82,4 @@ urllib3==2.1.0
 watchdog==6.0.0
 wcwidth==0.2.9
 yagmail==0.15.293
-groq
+groq==0.25.0
