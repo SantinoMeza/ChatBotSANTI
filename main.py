@@ -1,5 +1,5 @@
 import streamlit as st
-from groq import Groq
+import groq
 
 st.set_page_config("ChatBot")
 st.title("BIENVENIDO AL CHATBOT DE SANTINO")
